@@ -12,3 +12,5 @@
 #### Upload the code
 
 
+## Output:
+<img src="https://raw.githubusercontent.com/PranavWani21/PranavWani21/main/static/img/mini%20project%20ml%20prediction%20for%20bad%20apple.png">
