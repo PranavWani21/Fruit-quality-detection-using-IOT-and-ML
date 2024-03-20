@@ -8,4 +8,7 @@
 ## Connect the hardware as shown below
 <img src="https://www.circuitschools.com/wp-content/uploads/2021/12/INTERFACING-esp32-cam-WITH-usb-TO-ttl-FTDI-CONVERTER-1.webp">
 
+#### Include the zip library "ei-pranavwani21-project-1-updatedv3-arduino-1.0.5"
+#### Upload the code
+
 
